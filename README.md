@@ -9,6 +9,7 @@ This library is designed to streamline access to Riot Games' API, making it simp
 ## Project Status
 
 🚧 **Under Development** 🚧
+
 Pyltover is currently in the early stages of development. While core functionality is being built, expect frequent updates and changes. Contributions and feedback are highly appreciated!
 
 ## Installation
