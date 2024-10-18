@@ -1,6 +1,6 @@
 # Pyltover
 
-Pyltover is a Python wrapper for the Riot Games League of Legends API. The goal of this library is to provide developers with an easy and efficient way to interact with the League of Legends API, enabling them to retrieve data from the game and integrate it into their own applications.
+Pyltover is a Python wrapper for the Riot Games League of Legends API. The goal of this library is to provide developers with an easy and efficient way to interact with the League of Legends API, enabling them to interact with the API and access data related to League of Legends accounts, matchs and more.
 
 ## About
 
@@ -9,6 +9,7 @@ This library is designed to streamline access to Riot Games' API, making it simp
 ## Project Status
 
 🚧 **Under Development** 🚧
+
 Pyltover is currently in the early stages of development. While core functionality is being built, expect frequent updates and changes. Contributions and feedback are highly appreciated!
 
 ## Installation
