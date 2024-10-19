@@ -18,7 +18,7 @@ Pyltover is not available on PyPI yet, as it is still in development. Stay tuned
 
 ## Contribution
 
-Feel free to contribute to the development of Pyltover. We welcome issues, pull requests, and suggestions for improvements.
+Feel free to contribute to the development of Pyltover. We welcome issues and suggestions for improvements.
 
 ## License
 
